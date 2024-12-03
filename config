@@ -1,0 +1,11 @@
+deploy_password=AKwWM4Qu2GRppJ7
+pg_pass=AKwWM4Qu2GRppJ7
+redis_pass=AKwWM4Qu2GRppJ7
+deploy_email=admin@mundodosoftware.com.br
+repositorio=git@github.com:Mundo-Do-Software/iVertion-CHAT.git
+nome_instancia=mundodosoftware
+porta_postgre_intancia=5432
+frontend_url=ivertionchat.mundodosoftware.com.br
+frontend_porta=4000
+backend_url=ivertionchatapi.mundodosoftware.com.br
+backend_porta=3000
